@@ -1,0 +1,6 @@
+{
+  "name": "Loomix Studio - Social Intelligence & Content Engine",
+  "description": "Analyze social accounts, generate realistic videos & vlog scripts with cinematic visual cues, identify peak engagement posting windows, create viral captions and hashtags, and automate your publishing schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
